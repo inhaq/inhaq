@@ -4,7 +4,6 @@
 Currently building AI-powered products at [Codivox](https://codivox.com).
 
 <br/>
-<br/>
 
 - 🔭 Working on **AI-powered SaaS products at Codivox**
 - 🌱 Learning **LLM integrations & Framer Motion patterns**
@@ -13,7 +12,6 @@ Currently building AI-powered products at [Codivox](https://codivox.com).
 - 📫 Reach me at **[hi@inhaq.com](mailto:hi@inhaq.com)**
 - ⚡ **I go from idea → prototype → production in one flow**
 
-<br/>
 <br/>
 
 ## 🛠 Tech Stack
@@ -28,16 +26,15 @@ Currently building AI-powered products at [Codivox](https://codivox.com).
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 <br/>
-<br/>
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=inhaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhaq&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=inhaq&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inhaq&theme=tokyonight" height="160" />
 </p>
 
-<br/>
+
 <br/>
 
 ## 🌐 Find me
