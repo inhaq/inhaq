@@ -1,17 +1,20 @@
 # Hey, I'm Inzi 👋
 
-AI-focused Design Engineer — I think like a designer and build like an engineer.  
+**AI-focused Design Engineer** — I think like a designer and build like an engineer.
 Currently building AI-powered products at [Codivox](https://codivox.com).
 
----
+<br/>
+<br/>
 
 - 🔭 Working on **AI-powered SaaS products at Codivox**
-- 🌱 Learning **LLM integrations & advanced Framer Motion patterns**
-- 👯 Looking to collaborate on **open source design systems & AI tools**
-- 💬 Ask me about **React, Next.js, Tailwind, UI/UX, or shipping fast from Figma → prod**
-- 📫 How to reach me: **[inhaq.com](https://inhaq.com)**
+- 🌱 Learning **LLM integrations & Framer Motion patterns**
+- 👯 Looking to collaborate on **design systems & AI tools**
+- 💬 Ask me about **React, Next.js, Tailwind, UI/UX, or shipping Figma → prod**
+- 📫 Reach me at **[hi@inhaq.com](mailto:hi@inhaq.com)**
+- ⚡ **I go from idea → prototype → production in one flow**
 
----
+<br/>
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -24,16 +27,20 @@ Currently building AI-powered products at [Codivox](https://codivox.com).
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
+<br/>
+<br/>
 
 ## 📊 GitHub Stats
 
-![Inzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inhaq&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inhaq&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=inhaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhaq&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
----
+<br/>
+<br/>
 
 ## 🌐 Find me
 
-[![Portfolio](https://img.shields.io/badge/-inhaq.com-000?style=flat&logo=vercel)](https://inhaq.com)
-[![Codivox](https://img.shields.io/badge/-codivox.com-5B21B6?style=flat&logo=lightning)](https://codivox.com)
+[![Portfolio](https://img.shields.io/badge/-inhaq.com-000?style=flat&logo=vercel&logoColor=white)](https://inhaq.com)
+[![Codivox](https://img.shields.io/badge/-codivox.com-5B21B6?style=flat&logo=lightning&logoColor=white)](https://codivox.com)
